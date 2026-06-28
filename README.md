@@ -160,7 +160,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsserElkabany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsserElkabany&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f4776&point=58a6ff&hide_border=true" />
 
 </div>
 
