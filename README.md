@@ -1,96 +1,189 @@
-<h1 align="center">
-  Asser ElKabbany
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer · Cybersecurity Engineer</b>
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        ██████╗  ███████╗  ███████╗  ███████╗  ██████╗   ║
+║       ██╔══██╗  ██╔════╝  ██╔════╝  ██╔════╝  ██╔══██╗  ║
+║       ███████║  ███████╗  ███████╗  █████╗    ██████╔╝  ║
+║       ██╔══██║       ██║       ██║  ██╔══╝    ██╔══██╗  ║
+║       ██║  ██║  ███████║  ███████║  ███████╗  ██║  ██║  ║
+║       ╚═╝  ╚═╝  ╚══════╝  ╚══════╝  ╚══════╝  ╚═╝  ╚═╝  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Peak%20Integrated%20Solutions-0ea5e9?style=flat-square&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Head%20of%20Cybersecurity-Roben%20Club-8b5cf6?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS%2FCE-AASTMT-22c55e?style=flat-square&logo=graduation-cap&logoColor=white" />
-</p>
+# Asser ElKabbany
 
-<p align="center">
-  <a href="https://linkedin.com/in/asser-elkabbany"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asser@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/asser"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://github.com/AsserElkabany"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+**`Software Engineer · Cybersecurity Engineer`**
+
+[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Peak%20Integrated%20Solutions-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNMTYgMjFWNWEyIDIgMCAwIDAtMi0ySDEwYTIgMiAwIDAgMC0yIDJ2MTYiLz48L3N2Zz4=&logoColor=white&labelColor=0d1117)](https://github.com/AsserElkabany)
+[![Head of Cybersecurity](https://img.shields.io/badge/Head%20of%20Cybersecurity-Roben%20Club-a78bfa?style=flat-square&labelColor=0d1117)](https://github.com/AsserElkabany)
+[![AASTMT](https://img.shields.io/badge/CS%2FCE-AASTMT-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/AsserElkabany)
 
 <br/>
 
-> I build secure backend systems, develop AI-powered cybersecurity tools, and research offensive security techniques. Currently completing my Computer Engineering degree while working at Peak Integrated Solutions.
+> I build secure backend systems, develop AI-powered cybersecurity solutions,
+> and research offensive security techniques. Currently working at Peak Integrated
+> Solutions while completing my Computer Engineering degree at AASTMT.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/asser-elkabbany)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149)](mailto:asser@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=3fb950)](https://asser.dev)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=a78bfa)](https://tryhackme.com/p/asser)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/AsserElkabany)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## `>_ Tech Stack`
 
-| Area | Tools |
-|------|-------|
-| **Backend** | Node.js · Express · REST APIs · WebSockets · MongoDB · SQL · JWT · C++ |
-| **Languages** | Python · JavaScript · C++ · Java · Bash |
-| **Cybersecurity** | Burp Suite · Nmap · Hydra · Metasploit · Wireshark · SQLMap |
-| **AI** | Agentic AI · LLMs · Automation |
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**`🔵 Backend`**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3fb950)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=e6edf3)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socket.io&logoColor=58a6ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=3fb950)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=f0883e)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
+
+</td>
+<td valign="top" width="25%">
+
+**`🟣 Languages`**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=f0883e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f0d000)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=coffeescript&logoColor=f85149)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=3fb950)
+
+</td>
+<td valign="top" width="25%">
+
+**`🟢 Cybersecurity`**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=f0883e)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=3fb950)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=58a6ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=a78bfa)
+![Hydra](https://img.shields.io/badge/Hydra-0d1117?style=flat-square&logo=kalilinux&logoColor=f85149)
+![SQLMap](https://img.shields.io/badge/SQLMap-0d1117?style=flat-square&logo=sqlite&logoColor=58a6ff)
+
+</td>
+<td valign="top" width="25%">
+
+**`🟠 AI`**
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0d1117?style=flat-square&logo=openai&logoColor=3fb950)
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square&logo=huggingface&logoColor=f0883e)
+![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## `>_ Featured Projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Wireless Pentesting Device
-Portable Raspberry Pi penetration testing device with an Agentic AI decision engine for autonomous security assessments.
+![AI](https://img.shields.io/badge/Agentic_AI-0d1117?style=flat-square&logoColor=58a6ff) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=f85149)
 
----
+> Portable Raspberry Pi penetration testing device with an Agentic AI decision engine for autonomous, intelligent security assessments in the field.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛡 Advanced C2 Framework
-Research project implementing an encrypted command-and-control architecture for red team operations.
+![Red Team](https://img.shields.io/badge/Red_Team-0d1117?style=flat-square&logoColor=a78bfa) ![Encryption](https://img.shields.io/badge/Encryption-0d1117?style=flat-square&logoColor=a78bfa)
 
----
+> Research project implementing an encrypted command-and-control architecture for red team operations and adversary simulation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💬 Chattera
-Real-time messaging application built with Node.js and Socket.IO, supporting live bidirectional communication.
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3fb950) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io&logoColor=58a6ff)
 
----
+> Real-time messaging application built with Node.js and Socket.IO, enabling low-latency bidirectional communication at scale.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 Rarumble Backend
-Large-scale backend system with RBAC, JWT authentication, payment integration, and WebSocket support.
+![RBAC](https://img.shields.io/badge/RBAC-0d1117?style=flat-square&logoColor=f0883e) ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logoColor=f0883e) ![Payments](https://img.shields.io/badge/Payments-0d1117?style=flat-square&logoColor=3fb950)
 
----
+> Large-scale backend system with RBAC, JWT authentication, payment integration, and WebSocket support for a live gaming platform.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎣 PhishNet
-Phishing Awareness Platform designed for employee security training and organizational resilience.
+![Security Training](https://img.shields.io/badge/Security_Training-0d1117?style=flat-square&logoColor=f85149)
+
+> Phishing Awareness Platform designed for employee security training and measuring organizational resilience to social engineering attacks.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Experience
+## `>_ Experience`
 
-**Software Engineer** — Peak Integrated Solutions
-
-**Head of Cybersecurity** — Roben Club
-
----
-
-## 📚 Currently Learning
-
-- OSCP
-- Advanced Active Directory
-- Agentic AI
-- Red Team Operations
+| Role | Organization |
+|------|-------------|
+| **Software Engineer** | Peak Integrated Solutions |
+| **Head of Cybersecurity** | Roben Club |
 
 ---
 
-## 📈 GitHub Stats
+## `>_ Currently Learning`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsserElkabany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsserElkabany&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+```
+[ OSCP ]  [ Advanced Active Directory ]  [ Agentic AI ]  [ Red Team Operations ]
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsserElkabany&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsserElkabany&theme=tokyo-night&hide_border=true" />
-</p>
+## `>_ GitHub Stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AsserElkabany&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsserElkabany&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsserElkabany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsserElkabany&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f4776&point=58a6ff&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**`// Let's build something that matters`**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AsserElkabany&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
