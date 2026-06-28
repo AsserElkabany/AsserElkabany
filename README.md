@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer · Cybersecurity Engineer · AI Security Researcher</b>
+  <b>Software Engineer · Cybersecurity Engineer</b>
 </p>
 
 <p align="center">
